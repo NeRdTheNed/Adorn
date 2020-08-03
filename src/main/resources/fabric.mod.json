@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "adorn",
+  "id": "worse-adorn",
   "version": "$version",
 
-  "name": "Adorn",
+  "name": "Adorn But Worse",
   "description": "Decorate your home!",
   "authors": ["Juuz"],
   "icon": "assets/adorn/icon.png",
