@@ -60,3 +60,4 @@ gradle-app.setting
 # Custom ignores
 local.json
 private.gradle
+.DS_Store
